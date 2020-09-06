@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Makes boats Cars and makes Cars fly!",
+        "name": "Flying Cars! (Behaviour Pack)",
+        "uuid": "27b94c2f-0c83-4669-a2a6-770c7e321893",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Makes boats behave like Cars",
+            "type": "data",
+            "uuid": "0e31d26d-0e53-47cb-b530-31106a45f972",
+            "version": [1,0,0]
+        }
+    ]
+}

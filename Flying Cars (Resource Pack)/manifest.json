@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Makes boats Cars and makes Cars fly!",
+        "name": "Flying Cars! (Resource Pack)",
+        "uuid": "297a3148-b778-4c2b-a7e9-737689d2b0cf",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Makes Boats look like Cars",
+            "type": "resources",
+            "uuid": "7f0cc1ff-0a7d-48f8-bbeb-c5c47a25da5a",
+            "version": [0, 0, 1]
+        }
+    ]
+}
