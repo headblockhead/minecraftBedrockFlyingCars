@@ -1,1 +1,2 @@
-# BedrockMC_Flying_Cars
+# MinecraftBedrockFlyingCars
+A Minecraft Bedrock pack that turns boats into flying cars
